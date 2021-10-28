@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T19:51:56.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="UaGjEpJyZdhW89p1Yu1V" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T19:57:56.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="o8_ImJusfx6EitE3J88R" version="15.5.6" type="github">
   <diagram id="jK6_b75PUJQNhEmS_nUD" name="Page-1">
-    <mxGraphModel dx="3685" dy="2176" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2873" dy="1229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
             <mxPoint x="-23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kUa1aifaIumlGkmkmH_S-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mRdu22Ob3dlRshEJ7SqW-1" target="kUa1aifaIumlGkmkmH_S-4">
+        <mxCell id="kUa1aifaIumlGkmkmH_S-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="mRdu22Ob3dlRshEJ7SqW-1" target="kUa1aifaIumlGkmkmH_S-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="400" y="-20" />
@@ -34,7 +34,7 @@
             <mxPoint x="2" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kUa1aifaIumlGkmkmH_S-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mRdu22Ob3dlRshEJ7SqW-1" target="kUa1aifaIumlGkmkmH_S-5">
+        <mxCell id="kUa1aifaIumlGkmkmH_S-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="mRdu22Ob3dlRshEJ7SqW-1" target="kUa1aifaIumlGkmkmH_S-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="370" y="125" />
@@ -81,7 +81,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kUa1aifaIumlGkmkmH_S-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mRdu22Ob3dlRshEJ7SqW-1" target="kUa1aifaIumlGkmkmH_S-101">
+        <mxCell id="kUa1aifaIumlGkmkmH_S-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="mRdu22Ob3dlRshEJ7SqW-1" target="kUa1aifaIumlGkmkmH_S-101">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="430" y="100" />
@@ -106,7 +106,7 @@
         <mxCell id="mRdu22Ob3dlRshEJ7SqW-1" value="router-stp.lan" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="361" y="267" width="78" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="kUa1aifaIumlGkmkmH_S-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mRdu22Ob3dlRshEJ7SqW-13" target="kUa1aifaIumlGkmkmH_S-5">
+        <mxCell id="kUa1aifaIumlGkmkmH_S-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="mRdu22Ob3dlRshEJ7SqW-13" target="kUa1aifaIumlGkmkmH_S-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="40" y="293" />
@@ -345,7 +345,7 @@
         <mxCell id="kUa1aifaIumlGkmkmH_S-87" value="D-Link&lt;br&gt;DGS-1016D" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="kUa1aifaIumlGkmkmH_S-85">
           <mxGeometry x="10.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="kUa1aifaIumlGkmkmH_S-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kUa1aifaIumlGkmkmH_S-86" target="kUa1aifaIumlGkmkmH_S-5">
+        <mxCell id="kUa1aifaIumlGkmkmH_S-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="kUa1aifaIumlGkmkmH_S-86" target="kUa1aifaIumlGkmkmH_S-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-319" y="360" />
