@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T11:15:30.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="yael3OwMcJ-feNRmQ7AQ" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-28T17:49:07.404Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="Pvk7MC9d5DPxkAIyOLm4" version="15.5.6" type="github">
   <diagram id="jK6_b75PUJQNhEmS_nUD" name="Page-1">
-    <mxGraphModel dx="1564" dy="1991" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="1757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,7 +76,7 @@
           <mxGeometry x="100" y="268.5" width="101" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mRdu22Ob3dlRshEJ7SqW-13" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="60" y="760" width="101" height="50" as="geometry" />
+          <mxGeometry x="370" y="420" width="101" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kUa1aifaIumlGkmkmH_S-1" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="180" width="120" height="80" as="geometry" />
@@ -86,6 +86,30 @@
         </mxCell>
         <mxCell id="kUa1aifaIumlGkmkmH_S-5" value="server-DCP24" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;" vertex="1" parent="1">
           <mxGeometry x="190" y="40" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kUa1aifaIumlGkmkmH_S-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kUa1aifaIumlGkmkmH_S-19" target="mRdu22Ob3dlRshEJ7SqW-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="620" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="421" y="523" />
+              <mxPoint x="421" y="469" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUa1aifaIumlGkmkmH_S-19" value="Зал 1" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;" vertex="1" parent="1">
+          <mxGeometry x="640" y="480" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="kUa1aifaIumlGkmkmH_S-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kUa1aifaIumlGkmkmH_S-20" target="mRdu22Ob3dlRshEJ7SqW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUa1aifaIumlGkmkmH_S-20" value="Зал 2" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;" vertex="1" parent="1">
+          <mxGeometry x="640" y="640" width="65" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="kUa1aifaIumlGkmkmH_S-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kUa1aifaIumlGkmkmH_S-21" target="mRdu22Ob3dlRshEJ7SqW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kUa1aifaIumlGkmkmH_S-21" value="Зал 3" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.tower_server;" vertex="1" parent="1">
+          <mxGeometry x="640" y="800" width="65" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
