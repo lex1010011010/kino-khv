@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T19:57:56.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="o8_ImJusfx6EitE3J88R" version="15.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-29T04:19:15.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ULkb4z9cZUztnXDRjgqC" version="15.5.6" type="github">
   <diagram id="jK6_b75PUJQNhEmS_nUD" name="Page-1">
-    <mxGraphModel dx="2873" dy="1229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2385" dy="1388" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,13 +20,13 @@
         <mxCell id="kUa1aifaIumlGkmkmH_S-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="mRdu22Ob3dlRshEJ7SqW-1" target="kUa1aifaIumlGkmkmH_S-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="-20" />
+              <mxPoint x="390" y="-20" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="kUa1aifaIumlGkmkmH_S-8" value="10.10.50.2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kUa1aifaIumlGkmkmH_S-6">
           <mxGeometry x="0.6705" y="2" relative="1" as="geometry">
-            <mxPoint x="60" y="8" as="offset" />
+            <mxPoint x="42" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kUa1aifaIumlGkmkmH_S-11" value="gi0/1/2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kUa1aifaIumlGkmkmH_S-6">
@@ -95,7 +95,7 @@
         </mxCell>
         <mxCell id="kUa1aifaIumlGkmkmH_S-104" value="10.10.50.3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kUa1aifaIumlGkmkmH_S-102">
           <mxGeometry x="0.257" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kUa1aifaIumlGkmkmH_S-108" value="&lt;span style=&quot;font-size: 12px ; text-align: left ; background-color: rgb(248 , 249 , 250)&quot;&gt;Adp 1&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kUa1aifaIumlGkmkmH_S-102">
@@ -106,24 +106,30 @@
         <mxCell id="mRdu22Ob3dlRshEJ7SqW-1" value="router-stp.lan" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="361" y="267" width="78" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="kUa1aifaIumlGkmkmH_S-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=none;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="mRdu22Ob3dlRshEJ7SqW-13" target="kUa1aifaIumlGkmkmH_S-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="40" y="293" />
-              <mxPoint x="40" y="120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kUa1aifaIumlGkmkmH_S-29" value="eth2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kUa1aifaIumlGkmkmH_S-28">
-          <mxGeometry x="0.8748" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kUa1aifaIumlGkmkmH_S-1" value="Internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kUa1aifaIumlGkmkmH_S-4" value="server-1c" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;" vertex="1" parent="1">
           <mxGeometry x="190" y="-90" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kUa1aifaIumlGkmkmH_S-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="kUa1aifaIumlGkmkmH_S-5" target="mRdu22Ob3dlRshEJ7SqW-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="110" />
+              <mxPoint x="10" y="350" />
+              <mxPoint x="-189" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUa1aifaIumlGkmkmH_S-115" value="eth2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kUa1aifaIumlGkmkmH_S-114">
+          <mxGeometry x="-0.9004" y="1" relative="1" as="geometry">
+            <mxPoint x="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUa1aifaIumlGkmkmH_S-118" value="192.168.200.24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kUa1aifaIumlGkmkmH_S-114">
+          <mxGeometry x="-0.6545" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="kUa1aifaIumlGkmkmH_S-5" value="server-DCP24" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;" vertex="1" parent="1">
           <mxGeometry x="190" y="40" width="80" height="90" as="geometry" />
@@ -339,7 +345,7 @@
         <mxCell id="kUa1aifaIumlGkmkmH_S-85" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-370" y="240" width="101" height="81.5" as="geometry" />
         </mxCell>
-        <mxCell id="kUa1aifaIumlGkmkmH_S-86" value="sw-11.stp.lan" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="kUa1aifaIumlGkmkmH_S-85">
+        <mxCell id="kUa1aifaIumlGkmkmH_S-86" value="sw-12.stp.lan" style="shape=mxgraph.cisco.switches.workgroup_switch;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="kUa1aifaIumlGkmkmH_S-85">
           <mxGeometry y="31.5" width="101" height="50" as="geometry" />
         </mxCell>
         <mxCell id="kUa1aifaIumlGkmkmH_S-87" value="D-Link&lt;br&gt;DGS-1016D" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="kUa1aifaIumlGkmkmH_S-85">
@@ -354,12 +360,17 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="kUa1aifaIumlGkmkmH_S-94" value="eth3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kUa1aifaIumlGkmkmH_S-92">
+        <mxCell id="kUa1aifaIumlGkmkmH_S-94" value="eth1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kUa1aifaIumlGkmkmH_S-92">
           <mxGeometry x="0.9149" y="-1" relative="1" as="geometry">
             <mxPoint x="4" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kUa1aifaIumlGkmkmH_S-95" value="&lt;div&gt;&lt;b&gt;Сервер DCP24:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;&lt;b&gt;lan-name: &lt;/b&gt;server-dcp24.stp.lan&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;font-weight: bold&quot;&gt;&lt;b&gt;eth0:&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;source: LAN&lt;/li&gt;&lt;li&gt;ip: 10.10.50.4&lt;/li&gt;&lt;li&gt;conn: router.stp.lan - gi0/1/2&lt;/li&gt;&lt;li&gt;coment:&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-weight: bold&quot;&gt;&lt;b&gt;eth0:&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;source: Сеть Контента&lt;/li&gt;&lt;li&gt;ip: 192.168.200.24&lt;/li&gt;&lt;li&gt;conn: sw-11.stp.lan - ????&lt;/li&gt;&lt;li&gt;coment:&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-weight: bold&quot;&gt;&lt;b&gt;eth1:&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;source: Сеть Управления&lt;/li&gt;&lt;li&gt;ip: 192.168.206.24&lt;/li&gt;&lt;li&gt;conn: ??? - ????&lt;/li&gt;&lt;li&gt;coment:&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;	&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="kUa1aifaIumlGkmkmH_S-119" value="192.168.206.24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kUa1aifaIumlGkmkmH_S-92">
+          <mxGeometry x="0.6748" relative="1" as="geometry">
+            <mxPoint x="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUa1aifaIumlGkmkmH_S-95" value="&lt;div&gt;&lt;b&gt;Сервер DCP24 TMS:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;&lt;b&gt;lan-name: &lt;/b&gt;server-dcp24-tms.stp.lan&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;ul&gt;&lt;li style=&quot;font-weight: bold&quot;&gt;&lt;b&gt;eth0:&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;source: LAN&lt;/li&gt;&lt;li&gt;ip: 10.10.50.4&lt;/li&gt;&lt;li&gt;conn: router.stp.lan - gi0/1/2&lt;/li&gt;&lt;li&gt;coment:&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-weight: bold&quot;&gt;&lt;b&gt;eth0:&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;source: Сеть Контента&lt;/li&gt;&lt;li&gt;ip: 192.168.200.24&lt;/li&gt;&lt;li&gt;conn: sw-11.stp.lan - ????&lt;/li&gt;&lt;li&gt;coment:&lt;/li&gt;&lt;/ul&gt;&lt;li style=&quot;font-weight: bold&quot;&gt;&lt;b&gt;eth1:&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;source: Сеть Управления&lt;/li&gt;&lt;li&gt;ip: 192.168.206.24&lt;/li&gt;&lt;li&gt;conn: ??? - ????&lt;/li&gt;&lt;li&gt;coment:&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;	&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-960" y="-240" width="280" height="280" as="geometry" />
         </mxCell>
         <mxCell id="kUa1aifaIumlGkmkmH_S-97" value="&lt;div&gt;&lt;b&gt;Сервер 1C:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;&lt;b&gt;lan-name: &lt;/b&gt;server-1c.stp.lan&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Port 1:&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;source: LAN&lt;/li&gt;&lt;li&gt;ip: 10.10.50.2&lt;/li&gt;&lt;li&gt;conn: router.stp.lan - gi0/1/3&lt;/li&gt;&lt;li&gt;coment&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;	&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
@@ -368,7 +379,7 @@
         <mxCell id="kUa1aifaIumlGkmkmH_S-98" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-640" y="-349.7701357466064" width="280" height="417.9977435897436" as="geometry" />
         </mxCell>
-        <mxCell id="kUa1aifaIumlGkmkmH_S-32" value="&lt;b&gt;Список IP Адресов&lt;/b&gt;:&lt;br&gt;&lt;ul&gt;&lt;li&gt;router.stp.lan - 10.10.50.1&lt;/li&gt;&lt;li&gt;server-1c.stp.lan - 10.10.50.2&lt;/li&gt;&lt;li&gt;storage.stp.lan - 10.10.50.3&lt;/li&gt;&lt;li&gt;server-dcp24.stp.lan - 10.10.50.4&lt;/li&gt;&lt;li&gt;sw-1.stp.lan - 10.10.50.11&lt;/li&gt;&lt;li&gt;sw-2.stp.lan - 10.10.50.12&lt;/li&gt;&lt;li&gt;sw-3.stp.lan - 10.10.50.13&lt;/li&gt;&lt;li&gt;sw-4.stp.lan - 10.10.50.14&lt;/li&gt;&lt;li&gt;sw-5.stp.lan - 10.10.50.15&lt;/li&gt;&lt;li&gt;sw-6.stp.lan - 10.10.50.16&lt;/li&gt;&lt;li&gt;sw-7.stp.lan - 10.10.50.17&lt;/li&gt;&lt;li&gt;sw-8.stp.lan - 10.10.50.18&lt;/li&gt;&lt;li&gt;sw-9.stp.lan - 10.10.50.19&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;sw-10.stp.lan - 10.10.50.20&lt;/li&gt;&lt;li&gt;sw-11.stp.lan - 10.10.50.21&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="kUa1aifaIumlGkmkmH_S-98">
+        <mxCell id="kUa1aifaIumlGkmkmH_S-32" value="&lt;b&gt;Список IP Адресов&lt;/b&gt;:&lt;br&gt;&lt;ul&gt;&lt;li&gt;router.stp.lan - 10.10.50.1&lt;/li&gt;&lt;li&gt;server-1c.stp.lan - 10.10.50.2&lt;/li&gt;&lt;li&gt;storage.stp.lan - 10.10.50.3&lt;/li&gt;&lt;li&gt;server-dcp24-tms.stp.lan - 10.10.50.4&lt;/li&gt;&lt;li&gt;server-dcp24-ticket.stp.lan - 10.10.50.5&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;sw-1.stp.lan - 10.10.50.11&lt;/li&gt;&lt;li&gt;sw-2.stp.lan - 10.10.50.12&lt;/li&gt;&lt;li&gt;sw-3.stp.lan - 10.10.50.13&lt;/li&gt;&lt;li&gt;sw-4.stp.lan - 10.10.50.14&lt;/li&gt;&lt;li&gt;sw-5.stp.lan - 10.10.50.15&lt;/li&gt;&lt;li&gt;sw-6.stp.lan - 10.10.50.16&lt;/li&gt;&lt;li&gt;sw-7.stp.lan - 10.10.50.17&lt;/li&gt;&lt;li&gt;sw-8.stp.lan - 10.10.50.18&lt;/li&gt;&lt;li&gt;sw-9.stp.lan - 10.10.50.19&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;sw-10.stp.lan - 10.10.50.20&lt;/li&gt;&lt;li&gt;sw-11.stp.lan - 10.10.50.21&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="kUa1aifaIumlGkmkmH_S-98">
           <mxGeometry y="108.58974358974365" width="280" height="309.40799999999996" as="geometry" />
         </mxCell>
         <mxCell id="kUa1aifaIumlGkmkmH_S-37" value="&lt;b&gt;Адреса:&lt;br&gt;&lt;/b&gt;&lt;b&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;2-10 сервера&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;11-30 сетевое оборудование&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;31-40 видеонаблюдение&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="kUa1aifaIumlGkmkmH_S-98">
@@ -393,6 +404,29 @@
               <mxPoint x="-141" y="180" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kUa1aifaIumlGkmkmH_S-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="kUa1aifaIumlGkmkmH_S-110" target="mRdu22Ob3dlRshEJ7SqW-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="-140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUa1aifaIumlGkmkmH_S-112" value="gi0/1/5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kUa1aifaIumlGkmkmH_S-111">
+          <mxGeometry x="0.7714" y="-1" relative="1" as="geometry">
+            <mxPoint y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUa1aifaIumlGkmkmH_S-113" value="10.10.50.5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kUa1aifaIumlGkmkmH_S-111">
+          <mxGeometry x="-0.4627" y="-2" relative="1" as="geometry">
+            <mxPoint x="-16" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUa1aifaIumlGkmkmH_S-110" value="server-DCP-ticket" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.database_server;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-210" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="kUa1aifaIumlGkmkmH_S-117" value="&lt;div&gt;&lt;b&gt;Сервер DCP24 Билетный:&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;&lt;b&gt;lan-name:&amp;nbsp;&lt;/b&gt;&lt;span&gt;server-dcp24-ticket.stp.lan&lt;/span&gt;&lt;/div&gt;&lt;/blockquote&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;b&gt;Port 1:&lt;/b&gt;&lt;/li&gt;&lt;ul&gt;&lt;li&gt;source: LAN&lt;/li&gt;&lt;li&gt;ip: 10.10.50.5&lt;/li&gt;&lt;li&gt;conn: router.stp.lan - gi0/1/3&lt;/li&gt;&lt;li&gt;coment&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;	&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-960" y="-420" width="280" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
