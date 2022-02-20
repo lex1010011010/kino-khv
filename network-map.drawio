@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-20T21:39:49.502Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="LQT5N_TbW0UOOSm3a1oI" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-20T21:48:46.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="4YqbrSMcHDhvyJOS9NCL" version="15.2.9" type="github">
   <diagram id="jK6_b75PUJQNhEmS_nUD" name="Page-1">
-    <mxGraphModel dx="3370" dy="2325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="5540" dy="3165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -497,6 +497,27 @@
         </mxCell>
         <mxCell id="vywFMJh7RXq9HJ-B_AOd-25" value="router-drb.lan" style="shape=mxgraph.cisco.routers.router;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1630" y="1360" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="vywFMJh7RXq9HJ-B_AOd-30" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-640" y="-1169.7701357466065" width="280" height="569.7701357466065" as="geometry" />
+        </mxCell>
+        <mxCell id="vywFMJh7RXq9HJ-B_AOd-31" value="&lt;b&gt;Список IP Адресов&lt;/b&gt;:&lt;br&gt;&lt;ul&gt;&lt;li&gt;router.khv.lan - 10.10.0.1&lt;/li&gt;&lt;li&gt;server-ad.khv.lan - 10.10.0.2&lt;/li&gt;&lt;li&gt;server-ticketsoft.khv.lan - 10.10.0.3&lt;/li&gt;&lt;li&gt;server-dcp24-tms.stp.lan - 10.10.50.4&lt;/li&gt;&lt;li&gt;server-dcp24-ticket.stp.lan - 10.10.50.5&lt;/li&gt;&lt;li&gt;server-plams.stp.lan - 10.10.50.6&lt;/li&gt;&lt;li&gt;server-led.stp.lan - 10.10.50.7&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;sw-stack.khv.lan - 10.10.0.7&lt;/li&gt;&lt;li&gt;sw-gamezone - 10.10.0.15&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="vywFMJh7RXq9HJ-B_AOd-30">
+          <mxGeometry y="108.59013574660639" width="280" height="461.18" as="geometry" />
+        </mxCell>
+        <mxCell id="vywFMJh7RXq9HJ-B_AOd-32" value="&lt;b&gt;Адреса:&lt;br&gt;&lt;/b&gt;&lt;b&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-weight: bold&quot;&gt;2-10 сервера&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;11-30 сетевое оборудование&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;31-40 видеонаблюдение&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="vywFMJh7RXq9HJ-B_AOd-30">
+          <mxGeometry width="280" height="108.58974358974358" as="geometry" />
+        </mxCell>
+        <mxCell id="vywFMJh7RXq9HJ-B_AOd-33" value="&lt;b&gt;Подсети:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;LAN: 10.10.0.0&lt;/li&gt;&lt;li&gt;CTV: 10.10.2.0&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="360" y="-1000" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vywFMJh7RXq9HJ-B_AOd-34" value="&lt;b&gt;Подсети:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;LAN: 10.10.10.0&lt;/li&gt;&lt;li&gt;CTV: 10.10.11.0&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="177" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vywFMJh7RXq9HJ-B_AOd-35" value="&lt;b&gt;Подсети:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;LAN: 10.10.30.0&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="1280" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vywFMJh7RXq9HJ-B_AOd-36" value="&lt;b&gt;Подсети:&lt;br&gt;&lt;/b&gt;&lt;ul&gt;&lt;li&gt;LAN: 10.10.20.0&lt;/li&gt;&lt;li&gt;FilmProjection: 10.10.21.0&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="299.5" y="1270" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
